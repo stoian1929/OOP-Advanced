@@ -1,0 +1,7 @@
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\obj\Debug\BashSoft.csprojAssemblyReference.cache
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\obj\Debug\BashSoft.csproj.CoreCompileInputs.cache
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\bin\Debug\BashSoft.exe.config
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\bin\Debug\BashSoft.exe
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\bin\Debug\BashSoft.pdb
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\obj\Debug\BashSoft.exe
+C:\Users\Bufera\source\repos\AdvancedOOP\BashSoft\00. CSharp-OOP-Advanced-BashSoft-Base\BashSoft\obj\Debug\BashSoft.pdb
